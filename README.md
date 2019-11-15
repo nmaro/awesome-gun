@@ -23,11 +23,15 @@
   - A Push to Talk demo with GUN db
 - [Maskbook](https://github.com/DimensionDev/Maskbook)
   - Encrypt your posts & chats on You-Know-Where. Allow only your friends to decrypt.
+- [streams](https://github.com/nmaro/streams)
+  - An experimental nanoblogging engine / anonymous group chat / outliner / productivity tool
 
 ## Plugins / Helpers
 
 - [GunStreamer](https://github.com/QVDev/GunStreamer)
   - Streaming component for Gun db.
+- [gun-inspector](https://github.com/nmaro/gun-inspector) [demo](https://gun-inspector.nmaro.now.sh/)
+  - Gun Node visualizer and editor
 - [visualGraph](https://github.com/dletta/visualGraph)
   - Gun Utility to Traverse Graph and use d3.js to visualize
 - [Gun-scape](https://github.com/lmangani/gun-scape)
