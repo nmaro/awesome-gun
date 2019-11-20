@@ -11,8 +11,14 @@
 
 ## Apps
 
-- [GUN Kanban](https://github.com/nmaro/gun-kanban/)
+- [GUN Kanban](https://github.com/nmaro/gun-kanban/) [demo](https://gun-kanban.nmaro.now.sh/)
   - A P2P KanBan!
+- [gun-poll](https://github.com/nmaro/gun-poll/) [demo](https://gun-poll.nmaro.now.sh/)
+  - Polls
+- [gun-calendar](https://github.com/nmaro/gun-calendar/) [demo](https://gun-calendar.nmaro.now.sh/)
+  - A calendar / scheduling app
+- [gun-editor](https://github.com/nmaro/gun-editor/) [demo](https://gun-editor.nmaro.now.sh/)
+  - An experimental collaborative editor (partial implementation)
 - [NotABug](https://github.com/notabugio/notabug)
   - A decentralized link aggregator with reddit’s classic, open source UI
 - [Iris](https://github.com/irislib/iris)
